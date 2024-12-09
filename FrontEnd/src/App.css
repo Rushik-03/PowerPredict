@@ -1,0 +1,246 @@
+
+a {
+    color:rgb(144, 87, 7);
+  }
+  a:hover {
+    color: rgb(209, 127, 12);
+  }
+  
+ul.sas {
+    list-style: none;
+  }
+
+  li{
+    padding:5px;
+  }
+  
+  ul.sas li::before {
+    content: "\2022";
+    color: rgb(26, 174, 215);
+    font-weight: bold;
+    font-size: 22px;
+    display: inline-block; 
+    width: 2em;
+    margin-left: -1em;
+  }
+#sause{
+    color: rgb(137, 165, 194);
+    margin-left: 1rem;
+}
+#navv{
+    font-size: 18px;
+  }
+  #navbardropdown{
+    font-size: 20px;
+  }
+  #drop{
+    background-color: #98bde2;
+  }
+
+  .navbar{
+    padding: 0.28rem;
+  }
+#hm.row{
+    margin-top: 280px;
+}
+.row{
+    margin-top: 250px;
+}
+
+#intro{
+    color: aliceblue;
+}
+
+#text1{
+    padding-top:3%;
+    font-size: large;
+    color: rgb(167, 176, 184);
+    text-align: left;
+}
+
+
+h1{
+    color: aliceblue;
+}
+.Concept{
+    margin-top: 250px;
+    background-color: #313d49;
+    border-radius: 20px;
+    margin-left: 180px;
+
+    margin-right: 180px;
+    
+}
+.heading{
+    text-align: center;
+    padding-top: 40px;
+    margin-bottom: 40px;
+}
+.content{
+
+    font-size: large;
+    color: rgb(202, 210, 217);
+    text-align: center;
+    word-spacing: 10px;
+    margin-right: 80px;
+    margin-left: 80px;
+    padding-bottom: 40px;
+}
+tr{
+    padding: 30px;
+}
+.buttun{
+    text-align: center;
+    margin-bottom: 30px;
+}
+#btn{
+    background-color:rgb(28, 151, 38);
+    padding : 10px;
+    padding-left: 14px;
+    padding-right: 14px;
+    word-spacing: 3px;
+    border-radius: 5px;
+    text-align: center;
+    color: aliceblue;
+    font-size:large;
+}
+
+
+#Mis{
+    margin-left: 42%;
+    color:aliceblue; 
+    margin-bottom: 9%;
+}
+.boxes{
+    margin-left: 8.5%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 40px;
+    margin-bottom: 20px;
+}
+.box1{
+    background-color: #212a33;
+    width: 80%;
+    height: 318px;
+    border-radius: 15px;
+}
+.box2{
+    background-color: #212a33;
+    width: 80%;
+    height: 318px;
+    border-radius: 15px;
+}
+.box3{
+    margin-top: 70px;
+    background-color: #212a33;
+    width: 50%;
+    height: 430px;
+    border-radius: 15px;
+    margin-left: 350px;
+    margin-bottom: 30px;
+}
+.heading{
+    text-align: center;
+    color:rgb(200, 218, 233);
+    padding-top: 30px;
+}
+#matter{
+    text-align: center;
+    font-size: 18px;
+    word-spacing: 0.30em;
+    color: rgb(137, 165, 194);
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+}
+#matter3{
+    text-align: center;
+    font-size: 18px;
+    word-spacing: 0.30em;
+    color: rgb(137, 165, 194);
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.bttn10{
+    text-align: center;
+}
+.bttn20{
+    text-align: center;
+}
+.bttn30{
+    text-align: center;
+}
+#bttn{
+    background-color: #455c72;
+    text-align: center;
+    border-radius: 5px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    color: aliceblue;
+    font-size: larger;
+}
+#Foot{
+    background-color: #0e1419;
+    border-style:double;
+    border-color: #212a33;
+    width: 100%;
+}
+
+
+
+
+
+label,h1{
+    color:aliceblue;
+}
+.out{
+    color:aliceblue;
+    margin-top: 250px;
+    margin-left: 40px;
+    width: 20%;
+    font-size:x-large;
+}
+input,select{
+    background-color: #6d8dae;
+    border-radius: 10px;
+    padding : 10px;
+    
+}
+#submit{
+    margin-left: 25px;
+    margin-top: 0px;
+    width: 45%;
+}
+
+.col2{
+    padding-bottom: 2%;
+    padding-top: 2%;
+    padding-left: 10%;
+}
+.input1{
+    width: 150%;
+    text-align: center;
+}
+label{
+    font-size: 22px;
+}
+
+#head{
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 10px;
+}
+::placeholder{
+    color: rgb(67, 68, 68);
+    text-align: center;
+    font-size: 18px;
+}
+#year{
+    color : rgb(137, 165, 194)
+}
+
+
