@@ -10,7 +10,7 @@ function App() {
       <Router>
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/yield" element={<Yield />} />
+        <Route path="/predict" element={<Yield />} />
         <Route path="/data" element={<Data />} />
       </Routes>
     </Router>

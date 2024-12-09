@@ -42,38 +42,8 @@ const Home = () => {
       </div>
       <br /><br />
       <div className="buttun">s
-        <Link to="/yield"><button id="btn">Get Power Prediction</button></Link>
+        <Link to="/predict"><button id="btn">Get Power Prediction</button></Link>
       </div>
-
-      {/* <br /><br /><br /><br /><br /><br /><br /> */}
-      {/* <div className="Miscellaneous">
-        <h1 id="Mis">
-          Miscellaneous
-        </h1>
-        <div className="boxes">
-          <div className="box1">
-            <h3 className="heading">Attributes</h3>
-            <p id="matter">Crop yield is primarily dependent on attributes like temperature, Rainfall, Irrigation level and ph of soil.Predicted of yield happened based on these parameters.Though there are other factors that influence yield due to lack of information other attributes are not included.</p>
-          </div>
-          <div className="box2">
-            <h3 className="heading">Accuracy</h3>
-            <p id="matter">Accuracy of our model is between 80-90%.Machine learning models are utilized for predicting yield.Machine Learning and AI are the techonologies used in many domains.These models helps to predict values based on past data</p>
-          </div>
-        </div>
-        <div className="box3">
-          <h3 className="heading">Crops Data</h3>
-          <p id="matter3">The dataset primarily consists of all districts within the state of Telangana.Five crops were choosen.Initially, the data was separate and scattered across various websites. However, it was efficiently merged to create comprehensive dataset.</p>
-          <h3 id="sause">Sources</h3>
-          <ul className="sas">
-              <li><a href="https://agricoop.nic.in/sites/default/files/pocketbook_0.pdf" target="_blank" class="src" style={{ fontSize: '20px' }}>https://agricoop.nic.in/sites/default/files/pocketbook_0.pdf
-              </a></li>
-              <li><a href = "https://data.telangana.gov.in/dataset/telangana.gov.in" target="_blank" class="src" style={{ fontSize: '20px' }}>https://data.telangana.gov.in/dataset/telangana.gov.in
-              </a></li>
-              <li><a href = "https://data.desagri.gov.in/website/crops-apy-report-web" target="_blank" class="src" style={{ fontSize: '20px' }}>https:// data.desagri.gov.in/website/crops-apy-report-web</a></li>
-          </ul>
-        </div>
-
-      </div> */}
       <br /><br />
       
     </body>

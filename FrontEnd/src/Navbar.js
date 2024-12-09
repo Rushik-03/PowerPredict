@@ -16,7 +16,7 @@ const Navbar = () => (
                   <Link className="nav-link" aria-current="page" to="/" id="navv">Home</Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/yield" id="navv">Predict consumption</Link>
+                  <Link className="nav-link" to="/predict" id="navv">Predict consumption</Link>
                 </li>
                 {/* <li className="nav-item">
                   <Link className="nav-link" to="/data" id="navv">View Data</Link>
